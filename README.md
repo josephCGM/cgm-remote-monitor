@@ -14,6 +14,7 @@ and blood glucose values are predicted 0.5 hours ahead using a
 autoregressive second order model.  Alarms are generated for high and
 low values, which can be cleared by any watcher of the data.
 
+
 Community maintained fork of the
 [original cgm-remote-monitor](https://github.com/rnpenguin/cgm-remote-monitor).
 
